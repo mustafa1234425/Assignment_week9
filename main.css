@@ -1,0 +1,26 @@
+div {
+    text-align: center;
+}
+
+h1 {
+    font-size: 80px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+button {
+    width: 250px;
+    height: 80px;
+    background-color:rgba(0, 0, 0, 0.505);
+    color: white;
+    font-size: 20px;
+    border-radius: 20px;
+}
+
+p{
+    font-size: 30px;
+}
+
+button:hover{
+    background-color: rgba(255, 255, 255, 0.337);
+    color: black;
+}
